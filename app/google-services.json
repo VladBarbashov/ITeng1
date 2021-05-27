@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057200206063",
+    "project_id": "iteng-e6aa5",
+    "storage_bucket": "iteng-e6aa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057200206063:android:22673335bd9a3d6bdaab1a",
+        "android_client_info": {
+          "package_name": "com.example.iteng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057200206063-5q5hh01oim54pn3shm70dvqsq9sla46s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyg3QL3S2Anm_DwiV9tZuzqxQwtarKSSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057200206063-5q5hh01oim54pn3shm70dvqsq9sla46s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

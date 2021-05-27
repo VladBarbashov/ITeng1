@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.iteng">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ITeng">
+        <activity android:name=".Test_Baza_2"></activity>
+        <activity android:name=".Baza_2" />
+        <activity android:name=".Menu_baza_1" />
+        <activity android:name=".Menu_baza_2" />
+        <activity android:name=".Result_0" />
+        <activity android:name=".Result_1" />
+        <activity android:name=".Test_Baza_1" />
+        <activity android:name=".Word" />
+        <activity android:name=".Vocabulary" />
+        <activity android:name=".Baza_1" />
+        <activity android:name=".Profile_1" />
+        <activity
+            android:name=".Activity_Tabbed"
+            android:label="@string/title_activity_tabbed"
+            android:theme="@style/Theme.ITeng.NoActionBar" />
+        <activity android:name=".Registration" />
+        <activity android:name=".Login" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
